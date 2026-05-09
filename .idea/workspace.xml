@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23f522fd-9d78-4d25-a368-3d30cb39c0a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/javastudenttribe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/src/main/java/com/java/ecommerce/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-maven/src/test/java/com/java/app/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/src/main/java/com/java/ecommerce/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../e-commerce-spring/src/test/java/com/java/ecommerce/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit-testing/src/main/java/com/java/testing/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/src/main/java/com/java/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-test/src/test/java/com/java/app/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/src/main/java/com/java/spring/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-fundamentals/src/test/java/com/java/spring/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../e-commerce-maven/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../e-commerce-maven/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/CountDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/NToOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/OddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/OneToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/PrintDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/SumEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/SumNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level1/SumOddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/EvenOddDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/LargestDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/PrimeBetween1ToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/ProductOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/SmallestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level2/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/AllFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/CountFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/SpyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level3/StrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/ArmstrongRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/CustomSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/DigitalRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/EvenDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/FibonacciNth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/OddDigitProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/OneSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/PalindromeRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/SquareSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/com/java/coding/questions/level4/SumOfFactorialDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/HarshadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/CountDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/NToOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/OddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/OneToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/PrintDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/SumEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/SumNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level1/SumOddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/EvenOddDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/LargestDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/PrimeBetween1ToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/ProductOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/SmallestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level2/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/AllFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/CountFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/SpyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level3/StrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/ArmstrongRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/CustomSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/DigitalRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/EvenDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/FibonacciNth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/OddDigitProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/OneSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/PalindromeRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/SquareSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/out/production/coding-questions/com/java/coding/questions/level4/SumOfFactorialDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/CountDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/NToOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/OddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/OneToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/PrintDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/SumEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/SumNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level1/SumOddNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/ArmstrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/EvenOddDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/LargestDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/PalindromeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/PrimeBetween1ToN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/ProductOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/SmallestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level2/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/AllFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/CountFactors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/GCD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/LCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/PerfectNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/SpyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level3/StrongNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/ArmstrongRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/CustomSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/DigitalRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/EvenDigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/FibonacciNth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/OddDigitProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/OneSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/PalindromeRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/SquareSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coding-questions/src/com/java/coding/questions/level4/SumOfFactorialDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-fundamentals/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-fundamentals/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/com/java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/java-fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-fundamentals/java-fundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/out/production/java-fundamentals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-fundamentals/out/production/java-fundamentals/com/java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented-programming" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented-programming" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3DUT8ddtLfa6qFkJ9bRfh97ZeH8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/yogesh/OneDrive/Desktop/javastudenttribe/mock-test"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23f522fd-9d78-4d25-a368-3d30cb39c0a2" name="Changes" comment="" />
+      <created>1778335491129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778335491129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
